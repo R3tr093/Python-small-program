@@ -4,6 +4,8 @@
 
 <hr>
 
+<em>You will find here a set of program that uses mathematics to come up with their terms.</em>
+
 <ul>
 
   <li><h4> Quotient.py : </h4> </li><hr>
