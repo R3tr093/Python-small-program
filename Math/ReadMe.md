@@ -36,6 +36,9 @@
   
   <p>The main mechanics of the program is the modulo operator.</p>
 
+  
+  <p>Use the modFizzBuzz.py file to start the program.</p>
+
   <hr>
   <br><br>
 
