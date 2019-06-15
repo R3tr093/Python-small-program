@@ -6,6 +6,8 @@
 
 <em>Here you will find a program package that uses mainly mathematical processing.</em>
 
+<br><br>
+
 <ul>
 
   <li><h4> Quotient.py : </h4> </li><hr>
@@ -20,7 +22,7 @@
 
   <hr>
   
-  
+  <br><br>
   
   <li><h4> FizzBuzz.py : </h4> </li><hr>
   
@@ -35,6 +37,6 @@
   <p>The main mechanics of the program is the modulo operator.</p>
 
   <hr>
-
+  <br><br>
 
 </ul>
