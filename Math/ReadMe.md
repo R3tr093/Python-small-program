@@ -1,4 +1,4 @@
-<h2> Math </h2>
+<h1> Math </h1>
 
 <img src="../logo.png"></img>
 
