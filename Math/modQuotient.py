@@ -1,4 +1,4 @@
-import quotientModule
+import quotient
 
 
-quotientModule.MyQuotient(10,10)
+quotient.MyQuotient(10,10)
