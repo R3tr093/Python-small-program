@@ -6,7 +6,7 @@
 
 <ul>
 
-  <li> Quotient.py : </li>
+  <li><h4> Quotient.py : </h4> </li><hr>
   
   <p>Quotient.py is a program that reviews the multiplication tables of a number passed as a parameter of a function.</p>
 
@@ -16,6 +16,7 @@
 
   <p>Use the modQuotient.py file to start the program.</p>
 
+  <hr>
 
 
 </ul>
