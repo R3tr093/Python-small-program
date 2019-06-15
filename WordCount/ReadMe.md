@@ -1,4 +1,8 @@
-<h3> WordCount </h3>
+<h2> WordCount </h2>
+
+<img src="../logo.png"></img>
+
+<hr>
 
 <p>WordCount is a very simple program that contains a function taking as parameter a string.</p>
 
