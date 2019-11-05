@@ -243,14 +243,3 @@ def init():
     print(' Bonne chance, et amusez vous bien ! \n ')
     input("\n Appuyez sur enter pour continuer... \n ")
     menu(True)
-
-
-
-    
-    
-
-
-
-
-init()
-

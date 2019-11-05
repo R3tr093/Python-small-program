@@ -1,0 +1,3 @@
+import casino
+
+casino.init()
