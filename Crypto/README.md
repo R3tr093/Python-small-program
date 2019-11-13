@@ -4,7 +4,7 @@
 
 <hr>
 
-<p><em>Crytpo is a character chain treatment program.</em></p>
+<p><em>Crypto is a character chain treatment program.</em></p>
 
 <p>We review each character of the chain, it is assigned according to its value a new value.</p>
 
